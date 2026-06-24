@@ -1,0 +1,6 @@
+{
+  "name": "Analyseur de Données de Test & Détection IA",
+  "description": "Importez vos mesures temporelles ou vos résultats de tests de détection IA depuis un fichier Excel ou Google Sheet et générez des visualisations interactives ainsi qu'une analyse approfondie par l'IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
